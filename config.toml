@@ -1,12 +1,12 @@
 baseurl = "https://devopsthink.org"
-title = "johndoe"
+title = "BLOG"
 theme = "hugo-coder"
 languagecode = "zh-cn"
-# defaultcontentlanguage = "en"
+defaultcontentlanguage = "zh-cn"
 
 paginate = 20
 
-pygmentsstyle = "bw"
+pygmentsstyle = "solarized"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
 author = "Berny Linville"
-info = "SRE"
+info = "从心"
 description = "Berny Linville's personal website"
 keywords = "blog,developer,personal,sre"
 avatarurl = "images/avatar.jpg"
